@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "574003272790",
+    "firebase_url": "https://eventsfirebase-d79f8-default-rtdb.firebaseio.com",
+    "project_id": "eventsfirebase-d79f8",
+    "storage_bucket": "eventsfirebase-d79f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574003272790:android:b8bd742f71bc6a7954aff7",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_promporn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP39V8Hif5WlDp6vFq8FETHsr4ZLvPdSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
